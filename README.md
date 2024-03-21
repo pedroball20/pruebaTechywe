@@ -7,5 +7,8 @@
 1. Descargar el repositorio
 2. ejecutar dentro del proyecto en la terminal
 ```npm install```
-2. ejecutar dentro del proyecto en la terminal
+3. ejecutar dentro del proyecto en la terminal
+```npm start```
+4. si haces un cambio en el codigo y esta en ejecucion para visualizarlo debes 
+```ctrl + c``` para parar la ejecucion y luego
 ```npm start```
